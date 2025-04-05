@@ -30,7 +30,7 @@ A simple Notes app built using the MERN stack (MongoDB, Express, React, Node.js)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/notes-app.git
+   git clone https://github.com/gagan723/Notes-to-do-list-App.git
 
 2. update config.json in backend with your mongoDB connection string
 3. navigate to backend
